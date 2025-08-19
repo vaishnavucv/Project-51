@@ -1,6 +1,5 @@
-# Project-51: Cybersecurity Project Levels
-
-Projects-51 is a complete Cybersecurity Project Hub containing 50+1 hands-on projects that span across all levels — L1 (Beginner), L2 (Intermediate), and L3 (Advanced).
+# Project-51: 50 Cybersecurity Projects + 1 Unified Capstone Project
+Projects-51 is a complete Cybersecurity Project Hub containing 50+1 hands-on projects that span across all levels — **L1 (Beginner)**, **L2 (Intermediate)**, and **L3 (Advanced).**
 
 This repository is designed as a structured cybersecurity learning and research platform, covering:
 
