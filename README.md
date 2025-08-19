@@ -4,10 +4,44 @@ Projects-51 is a complete Cybersecurity Project Hub containing 50+1 hands-on pro
 
 This repository is designed as a structured cybersecurity learning and research platform, covering:
 
--   <img src="https://github.com/user-attachments/assets/c4ad6f4f-adc4-4d15-a3b8-743bdd9d6154" width="25"> - **Red Team Projects** – Attacks, exploits, malware, obfuscation, phishing, and rootkits.
--   <img src="https://github.com/user-attachments/assets/cf627a62-5cc6-4178-b442-2f30ec04fbb0" width="25"> - **Blue Team Projects** – IDS/IPS, anomaly detection, forensic analysis, firewalls, and SOC defense.
--   <img src="https://github.com/user-attachments/assets/4421ada1-1344-4b40-8a31-9dd092338eaa" width="28"> -  **Research & Advanced Security** – Smart contract auditing, ICS/IoT security, side-channel attacks, nation-state malware analysis.
--   <img src="https://github.com/user-attachments/assets/ce0ab149-70f4-4baf-bfa9-19c81b6a5785" width="32"> -  **Project 51 (Capstone)** – A Cybersecurity Mega Range that unifies all 50 projects into a single simulation environment with offense, defense, crypto, and research modules.
+<table>
+<tr>
+<td width="50%">
+
+### 🔴 Red Team Projects
+<img src="https://github.com/user-attachments/assets/c4ad6f4f-adc4-4d15-a3b8-743bdd9d6154" width="25">
+
+**Attacks, exploits, malware, obfuscation, phishing, and rootkits.**
+
+</td>
+<td width="50%">
+
+### 🔵 Blue Team Projects  
+<img src="https://github.com/user-attachments/assets/cf627a62-5cc6-4178-b442-2f30ec04fbb0" width="25">
+
+**IDS/IPS, anomaly detection, forensic analysis, firewalls, and SOC defense.**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Research & Advanced Security
+<img src="https://github.com/user-attachments/assets/4421ada1-1344-4b40-8a31-9dd092338eaa" width="28">
+
+**Smart contract auditing, ICS/IoT security, side-channel attacks, nation-state malware analysis.**
+
+</td>
+<td width="50%">
+
+### 🛡 Project 51 (Capstone)
+<img src="https://github.com/user-attachments/assets/ce0ab149-70f4-4baf-bfa9-19c81b6a5785" width="32">
+
+**A Cybersecurity Mega Range that unifies all 50 projects into a single simulation environment with offense, defense, crypto, and research modules.**
+
+</td>
+</tr>
+</table>
 
 The repo is structured into three levels:
 
