@@ -7,7 +7,7 @@ This repository is designed as a structured cybersecurity learning and research 
 -   <img src="https://github.com/user-attachments/assets/c4ad6f4f-adc4-4d15-a3b8-743bdd9d6154" width="25"> - **Red Team Projects** – Attacks, exploits, malware, obfuscation, phishing, and rootkits.
 -   <img src="https://github.com/user-attachments/assets/cf627a62-5cc6-4178-b442-2f30ec04fbb0" width="25"> - **Blue Team Projects** – IDS/IPS, anomaly detection, forensic analysis, firewalls, and SOC defense.
 -   <img src="https://github.com/user-attachments/assets/4421ada1-1344-4b40-8a31-9dd092338eaa" width="28"> -  **Research & Advanced Security** – Smart contract auditing, ICS/IoT security, side-channel attacks, nation-state malware analysis.
--   <img src="https://github.com/user-attachments/assets/e22786f9-87d3-4001-b71b-06b1ab8c56f1)" width="30"> -  **Project 51 (Capstone)** – A Cybersecurity Mega Range that unifies all 50 projects into a single simulation environment with offense, defense, crypto, and research modules.
+-   <img src="https://github.com/user-attachments/assets/ce0ab149-70f4-4baf-bfa9-19c81b6a5785" width="32"> -  **Project 51 (Capstone)** – A Cybersecurity Mega Range that unifies all 50 projects into a single simulation environment with offense, defense, crypto, and research modules.
 
 The repo is structured into three levels:
 
