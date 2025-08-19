@@ -4,37 +4,29 @@ Projects-51 is a complete Cybersecurity Project Hub containing 50+1 hands-on pro
 
 This repository is designed as a structured cybersecurity learning and research platform, covering:
 
-🔴 Red Team Projects – Attacks, exploits, malware, obfuscation, phishing, and rootkits.
-
-🔵 Blue Team Projects – IDS/IPS, anomaly detection, forensic analysis, firewalls, and SOC defense.
-
-⚡ Research & Advanced Security – Smart contract auditing, ICS/IoT security, side-channel attacks, nation-state malware analysis.
-
-🛡 Project 51 (Capstone) – A Cybersecurity Mega Range that unifies all 50 projects into a single simulation environment with offense, defense, crypto, and research modules.
+-   🔴 **Red Team Projects** – Attacks, exploits, malware, obfuscation, phishing, and rootkits.
+-   🔵 **Blue Team Projects** – IDS/IPS, anomaly detection, forensic analysis, firewalls, and SOC defense.
+-   ⚡ **Research & Advanced Security** – Smart contract auditing, ICS/IoT security, side-channel attacks, nation-state malware analysis.
+-   🛡 **Project 51 (Capstone)** – A Cybersecurity Mega Range that unifies all 50 projects into a single simulation environment with offense, defense, crypto, and research modules.
 
 The repo is structured into three levels:
 
-L1 – Beginner → Foundational labs & tools.
-
-L2 – Intermediate → Real-world applied security.
-
-L3 – Advanced → Enterprise, research & nation-state level security.
+-   L1 – Beginner → Foundational labs & tools.
+-   L2 – Intermediate → Real-world applied security.
+-   L3 – Advanced → Enterprise, research & nation-state level security.
 
 Each project folder includes:
 
-📖 Documentation (README.md)
-
-🧪 Lab Setup Guide
-
-💻 Source Code / Scripts
-
-📊 Reports
+-   📖 Documentation (README.md)
+-   🧪 Lab Setup Guide
+-   💻 Source Code / Scripts
+-   📊 Reports
 
 This project is ideal for students, professionals, and trainers aiming to master cybersecurity end-to-end through structured, hands-on labs.
 
 ---
 
-🔰 **Cybersecurity Project Levels (L1 → L3)**
+🔰 **Each Projects Levels (L1 → L3)**
 
 ## L1 – Beginner (Fundamentals & Hands-on Labs)
 **Focus:** Basics, simulations, and essential tools.
