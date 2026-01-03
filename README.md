@@ -51,9 +51,9 @@ This repository is designed as a structured cybersecurity learning and research 
 
 The repo is structured into three levels:
 
--   L1 – Beginner → Foundational labs & tools.
--   L2 – Intermediate → Real-world applied security.
--   L3 – Advanced → Enterprise, research & nation-state level security.
+- [**L1 – Beginner**](./L1‑Beginner/README.md) → Foundational labs & tools.
+- [**L2 – Intermediate**](./L2‑Intermediate/README.md) → Real-world applied security.
+- [**L3 – Advanced**](./L3‑Expert/README.md) → Enterprise, research & nation-state level security.
 
 Each project folder includes:
 
@@ -71,64 +71,64 @@ This project is ideal for students, professionals, and trainers aiming to master
 ## L1 – Beginner (Fundamentals & Hands-on Labs)
 **Focus:** Basics, simulations, and essential tools.
 
-1. **Honeypot Setup**
-2. **Password Cracker**
-3. **Packet Sniffer**
-4. **Keylogger**
-5. **Forensic Analysis**
-6. **Home Lab Setup**
-7. **Basic Cryptography**
-8. **Phishing Campaign**
-9. **Wi-Fi Security Analysis**
-10. **Network Vulnerability Scanning**
-11. **Firewall Rules**
-12. **2FA System**
-13. **Secure Web App**
-14. **Snort IDS**
-15. **Vulnerability Scanner**
-16. **DNS Spoofer**
-17. **Malware (basic creation/simulation)**
-18. **Antivirus (basic detection)**
+1. [Honeypot Setup](./L1‑Beginner/01‑Honeypot‑Setup/README.md)
+2. [Password Cracker](./L1‑Beginner/02‑Password‑Cracker/README.md)
+3. [Packet Sniffer](./L1‑Beginner/03‑Packet‑Sniffer/README.md)
+4. [Keylogger](./L1‑Beginner/04‑Keylogger/README.md)
+5. [Forensic Analysis](./L1‑Beginner/05‑Forensic‑Analysis/README.md)
+6. [Home Lab Setup](./L1‑Beginner/06‑Home‑Lab‑Setup/README.md)
+7. [Basic Cryptography](./L1‑Beginner/07‑Basic‑Cryptography/README.md)
+8. [Phishing Campaign](./L1‑Beginner/08‑Phishing‑Campaign/README.md)
+9. [Wi-Fi Security Analysis](./L1‑Beginner/09‑Wi‑Fi‑Security‑Analysis/README.md)
+10. [Network Vulnerability Scanning](./L1‑Beginner/10‑Network‑Vulnerability‑Scanning/README.md)
+11. [Firewall Rules](./L1‑Beginner/11‑Firewall‑Rules/README.md)
+12. [2FA System](./L1‑Beginner/12‑2FA‑System/README.md)
+13. [Secure Web App](./L1‑Beginner/13‑Secure‑Web‑App/README.md)
+14. [Snort IDS](./L1‑Beginner/14‑Snort‑IDS/README.md)
+15. [Vulnerability Scanner](./L1‑Beginner/15‑Vulnerability‑Scanner/README.md)
+16. [DNS Spoofer](./L1‑Beginner/16‑DNS‑Spoofer/README.md)
+17. [Malware (basic creation/simulation)](./L1‑Beginner/17‑Malware‑Simulation/README.md)
+18. [Antivirus (basic detection)](./L1‑Beginner/18‑Antivirus‑Detection/README.md)
 
 ## L2 – Intermediate (Applied Security & Engineering)
 **Focus:** Real-world simulations, secure app dev, red/blue team practices.
 
-19. **Anomaly Detection System**
-20. **Malware Reverse Engineering**
-21. **TLS Mutual Authentication**
-22. **Zero Day Exploit (controlled lab)**
-23. **Anonymous Communication**
-24. **Threat Intelligence Honeypots**
-25. **Password Cracking GPU Cluster**
-26. **Malware Analysis Sandbox**
-27. **Full Disk Encryption**
-28. **IDS/IPS with Machine Learning**
-29. **Anonymizing Routing**
-30. **Secure Cryptocurrency Wallet**
-31. **Rootkit Analysis**
-32. **Dark Web Scraper**
-33. **DDoS Simulation**
-34. **Secure Messaging App**
-35. **PKI Infrastructure**
+19. [Anomaly Detection System](./L2‑Intermediate/19‑Anomaly‑Detection‑System/README.md)
+20. [Malware Reverse Engineering](./L2‑Intermediate/20‑Malware‑Reverse‑Engineering/README.md)
+21. [TLS Mutual Authentication](./L2‑Intermediate/21‑TLS‑Mutual‑Authentication/README.md)
+22. [Zero Day Exploit (controlled lab)](./L2‑Intermediate/22‑Zero‑Day‑Exploit/README.md)
+23. [Anonymous Communication](./L2‑Intermediate/23‑Anonymous‑Communication/README.md)
+24. [Threat Intelligence Honeypots](./L2‑Intermediate/24‑Threat‑Intelligence‑Honeypots/README.md)
+25. [Password Cracking GPU Cluster](./L2‑Intermediate/25‑Password‑Cracking‑GPU‑Cluster/README.md)
+26. [Malware Analysis Sandbox](./L2‑Intermediate/26‑Malware‑Analysis‑Sandbox/README.md)
+27. [Full Disk Encryption](./L2‑Intermediate/27‑Full‑Disk‑Encryption/README.md)
+28. [IDS/IPS with Machine Learning](./L2‑Intermediate/28‑IDS‑IPS‑ML/README.md)
+29. [Anonymizing Routing](./L2‑Intermediate/29‑Anonymizing‑Routing/README.md)
+30. [Secure Cryptocurrency Wallet](./L2‑Intermediate/30‑Secure‑Crypto‑Wallet/README.md)
+31. [Rootkit Analysis](./L2‑Intermediate/31‑Rootkit‑Analysis/README.md)
+32. [Dark Web Scraper](./L2‑Intermediate/32‑Dark‑Web‑Scraper/README.md)
+33. [DDoS Simulation](./L2‑Intermediate/33‑DDoS‑Simulation/README.md)
+34. [Secure Messaging App](./L2‑Intermediate/34‑Secure‑Messaging‑App/README.md)
+35. [PKI Infrastructure](./L2‑Intermediate/35‑PKI‑Infrastructure/README.md)
 
 ## L3 – Expert (Enterprise, Nation-State & Advanced Research)
 **Focus:** Advanced exploits, research, and enterprise-level challenges.
 
-36. **Zero Day Vulnerability Research**
-37. **Smart Contract Auditing**
-38. **Custom Assessment Tools**
-39. **Threat Detection with Machine Learning**
-40. **Firmware Reverse Engineering**
-41. **ICS Security**
-42. **Nation State Malware Analysis**
-43. **Advanced Firewall**
-44. **IoT Security Tools**
-45. **Custom Cyber Ranges**
-46. **Malware Obfuscation**
-47. **In-Memory Invasion**
-48. **Linux/Windows Kernel Backdoor**
-49. **Side Channel Attacks**
-50. **ARM/X86 Rootkit**
+36. [Zero Day Vulnerability Research](./L3‑Expert/36‑Zero‑Day‑Vulnerability‑Research/README.md)
+37. [Smart Contract Auditing](./L3‑Expert/37‑Smart‑Contract‑Auditing/README.md)
+38. [Custom Assessment Tools](./L3‑Expert/38‑Custom‑Assessment‑Tools/README.md)
+39. [Threat Detection with Machine Learning](./L3‑Expert/39‑ML‑Threat‑Detection/README.md)
+40. [Firmware Reverse Engineering](./L3‑Expert/40‑Firmware‑Reverse‑Engineering/README.md)
+41. [ICS Security](./L3‑Expert/41‑ICS‑Security/README.md)
+42. [Nation State Malware Analysis](./L3‑Expert/42‑Nation‑State‑Malware‑Analysis/README.md)
+43. [Advanced Firewall](./L3‑Expert/43‑Advanced‑Firewall/README.md)
+44. [IoT Security Tools](./L3‑Expert/44‑IoT‑Security‑Tools/README.md)
+45. [Custom Cyber Ranges](./L3‑Expert/45‑Custom‑Cyber‑Ranges/README.md)
+46. [Malware Obfuscation](./L3‑Expert/46‑Malware‑Obfuscation/README.md)
+47. [In-Memory Invasion](./L3‑Expert/47‑In‑Memory‑Invasion/README.md)
+48. [Linux/Windows Kernel Backdoor](./L3‑Expert/48‑Kernel‑Backdoor/README.md)
+49. [Side Channel Attacks](./L3‑Expert/49‑Side‑Channel‑Attacks/README.md)
+50. [ARM/X86 Rootkit](./L3‑Expert/50‑ARM‑X86‑Rootkit/README.md)
 
 ---
 
