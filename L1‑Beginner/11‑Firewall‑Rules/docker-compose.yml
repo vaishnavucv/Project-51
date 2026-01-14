@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+  container-a:
+    build: .
+    container_name: ufw-A
+    hostname: A
+    privileged: true
+    tty: true
+    entrypoint: ["/entrypoint-A.sh"]
+    networks:
+      ufw_lab_net:
+        ipv4_address: 172.30.0.2
+
+  container-b:
+    build: .
+    container_name: ufw-B
+    hostname: B
+    privileged: true
+    tty: true
+    entrypoint: ["/entrypoint-B.sh"]
+    networks:
+      ufw_lab_net:
+        ipv4_address: 172.30.0.3
+
+networks:
+  ufw_lab_net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.30.0.0/24
+
